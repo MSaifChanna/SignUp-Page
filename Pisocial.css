@@ -1,0 +1,10 @@
+.pisocial1 {
+  position: relative;
+  font-size: 41.53px;
+  font-family: var(--font-cassadio);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 123px;
+  height: 62.3px;
+}

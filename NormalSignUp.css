@@ -1,0 +1,180 @@
+.button-child1 {
+  position: absolute;
+  height: 102.94%;
+  width: 100.26%;
+  top: -1.47%;
+  right: -0.13%;
+  bottom: -1.47%;
+  left: -0.13%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-deepskyblue);
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  border: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+}
+.sign-up2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-gilroy-medium);
+  color: var(--color-white);
+  text-align: left;
+}
+.sign-up-wrapper {
+  position: absolute;
+  height: 52.94%;
+  width: 13.54%;
+  top: 23.53%;
+  right: 43.23%;
+  bottom: 23.53%;
+  left: 43.23%;
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 624px;
+  left: 179px;
+  width: 384px;
+  height: 34px;
+}
+.email-item {
+  border: 1px solid var(--color-lightgray-200);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 16.5px;
+  left: -0.5px;
+  border-radius: var(--br-11xs);
+  box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+  box-sizing: border-box;
+  width: 386px;
+  height: 31px;
+}
+.email3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.email2,
+.password2 {
+  position: absolute;
+  top: 390px;
+  left: 178px;
+  width: 385px;
+  height: 47px;
+}
+.password2 {
+  top: 473px;
+}
+.creating-an-account1 {
+  position: absolute;
+  top: -7px;
+  left: 17px;
+  display: inline-block;
+  width: 403px;
+}
+.frame-inner {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-lightgray-200);
+  box-sizing: border-box;
+  width: 8px;
+  height: 8px;
+}
+.creating-an-account-means-you-group {
+  position: absolute;
+  top: 558px;
+  left: 178px;
+  width: 418px;
+  height: 30px;
+  font-size: var(--font-size-xs);
+}
+.sign-up3 {
+  position: absolute;
+  top: 0;
+  left: 54px;
+  letter-spacing: 0.15em;
+}
+.get-started-absolutely1 {
+  position: absolute;
+  top: 71.7%;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-gilroy-medium);
+  color: var(--color-dimgray-300);
+}
+.sign-up-group {
+  position: absolute;
+  top: 243px;
+  left: 209px;
+  width: 309px;
+  height: 106px;
+  font-size: var(--font-size-26xl);
+  font-family: var(--font-gilroy-bold);
+}
+.normal-sign-up-child2,
+.normal-sign-up-child3 {
+  position: absolute;
+  height: 22.45%;
+  width: 27.84%;
+  top: 77.56%;
+  right: 0.08%;
+  bottom: 0;
+  left: 72.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.normal-sign-up-child3 {
+  height: 11.94%;
+  width: 28.55%;
+  top: 4.78%;
+  right: 33.5%;
+  bottom: 83.28%;
+  left: 37.95%;
+}
+.normal-sign-up-child4,
+.normal-sign-up-child5,
+.normal-sign-up-child6 {
+  position: absolute;
+  height: 16.33%;
+  width: 19.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.normal-sign-up-child4 {
+  top: 0;
+  right: 3.32%;
+  bottom: 83.67%;
+  left: 77.08%;
+  display: none;
+}
+.normal-sign-up-child5,
+.normal-sign-up-child6 {
+  top: 84.89%;
+  right: 80.4%;
+  bottom: -1.22%;
+  left: 0;
+}
+.normal-sign-up-child6 {
+  top: 0;
+  right: -0.01%;
+  bottom: 83.67%;
+  left: 80.42%;
+}
+.normal-sign-up1 {
+  position: relative;
+  width: 100%;
+  height: 900px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-gilroy-regular);
+}
